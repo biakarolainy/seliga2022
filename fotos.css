@@ -1,0 +1,11 @@
+header{
+    background: #ad5d5d
+}
+
+nav li{
+    display: inline;
+    text-transform: uppercase;
+    font-weight: solid;
+    font-size: 30px;
+    padding: 150px;
+}
